@@ -1,0 +1,11 @@
+-- CREATE DATABASE
+
+
+-- Create DB
+CREATE DATABASE myDB;
+
+-- Use DB
+USE myDB;
+
+-- DROP DATABASE: Delete database
+DROP DATABASE myDB;
