@@ -1,0 +1,11 @@
+Data Manipulation Language - Usado para gerir informações em base de dados.
+    - Iserir
+    - Atualizar
+    - Eliminar
+    - Consultar
+
+Comandos do DML
+    - INSERT
+    - UPDATE
+    - DELETE
+    - 
