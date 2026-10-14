@@ -1,6 +1,8 @@
 # MySQL
 Mysql tutorial
 
+- Install mysql server and workbench
+
 ## MySQL
 1. Relational database management system (RDBMS)
 
